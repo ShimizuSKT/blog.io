@@ -1,13 +1,16 @@
 ---
 layout: post
-title: 这是一篇博客文章模板
-date: 2015-3-02
+title: Telegram机器人学习
+date: 2021-7-11
 categories: blog
-tags: [标签一,标签二]
-description: 文章金句。
+tags: [Javascript,Telegram,Bot]
+description: 菜鸟试水中
 ---
 
-这里是博客正文。
+    看完赛马娘以后有些魔怔（铃鹿实在是太可爱了啊啊啊啊啊啊啊啊啊啊啊啊），虽然去不了二次元，但是不代表我不能自己写Bot自我满足啊lmao（参考屑清水的某个陈年Project），于是就跟着油管某up边研究JS边写bot。
+    具体操作仅仅只是通过GoogleScript实现Webhook托管罢了。
+    参考视频：https://www.dengnz.com/
+
 
 
 
