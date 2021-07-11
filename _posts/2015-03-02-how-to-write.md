@@ -12,7 +12,7 @@ description: 菜鸟试水中
     参考视频：https://www.dengnz.com/
 
     代码如下：
-    function doPost(e){
+    <code>function doPost(e){
   var dataFromTelegram = {
     "method": "post",
     "payload": e.postData.contents
@@ -116,7 +116,7 @@ function preparePayload(body){
     }
    }
   return payload
-}
+}</code>
 
 
 
