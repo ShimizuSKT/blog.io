@@ -5,7 +5,7 @@ description: "代表作"
 header-img: "img/zhihu.jpg"
 ---
 
-<img src = "img/鈴鹿(一稿）.png"/>
+<img src = "img/Suzuka.png" alt = "铃鹿" />
 
 
 
